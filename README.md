@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vbarbosaxd
+- 👋 Hi, I’m Victoria!
 - 👀 I’m interested in ... making an impact in people's lives with my coding skills ^__^
 - 🌱 I’m currently learning ... Python, Matplotlib, Pandas, SQL, etc.
 - 💞️ I’m looking to collaborate on ... real-world projects to apply my emerging coding skills
